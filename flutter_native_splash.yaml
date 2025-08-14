@@ -1,0 +1,9 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  color: "#ffDEAD" # or match your branding
+  image: assets/images/splash_screen_metro.png
+
+  android_12:
+    image: assets/images/splash_screen_metro.png
+    color: "#ffDEAD"
